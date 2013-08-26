@@ -1,0 +1,11 @@
+385660d335ac6b7ffaab1b895f9edd3f *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+ca54ed7a347af72cb644db28d8ffd911 *R/addhead.R
+114142db0613073f8f099742436077e2 *R/genparam.R
+c04c9e0ad1186b1c59a996a036936397 *R/snapread.R
+ca03a164fb2f808c3f872b87deee3197 *R/snapwrite.R
+28195a5f884eafbb16b819e0f9831500 *man/addhead.Rd
+a194150867b505a530f7589685c1928f *man/genparam.Rd
+29d0b1a56214d77901d35366c415278d *man/snapread.Rd
+0196491ec6a73bce71349bf3eb684076 *man/snapshot-package.Rd
+c5c740116957e49d068dc4734070b6dc *man/snapwrite.Rd
